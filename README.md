@@ -25,15 +25,13 @@ The repository contains STEP files for all three cookie cutter designs.
 - 3D modelling
 - Exporting STEP files
 
-- ## Design Gallery
+## Design Gallery
 
-### Cookie Cutter 1.0
-![Cookie Cutter 1.0](Cookie%20cutter%203-D%201.0.jpg)
+### Cookie Cutter 1.0 — Submitted
+[![Cookie Cutter 1.0](Cookie%20cutter%203-D%201.0.jpg)](cookie%20cutter.step)
 
 ### Cookie Cutter 2.0
-![Cookie Cutter 2.0](cookie-cutter-3d-2.jpg)
+[![Cookie Cutter 2.0](cookie-cutter-3d-2.jpg)](cookie%20cutter%20star.step)
 
 ### Cookie Cutter 3.0
-![Cookie Cutter 3.0](cookie-cutter-3d-3.jpg)
-
-
+[![Cookie Cutter 3.0](cookie-cutter-3d-3.jpg)](cookie%20cutter%20ghost.step)
