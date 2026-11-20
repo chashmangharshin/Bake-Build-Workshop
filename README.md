@@ -1,26 +1,28 @@
 # Bake-Build-Workshop
-# Bake Build
+# Bake Build — Cookie Cutter Designs
 
-A CAD project completed as part of Hack Club's Bake Build workshop.
+A CAD project made as part of **Hack Club's Bake Build workshop**.
 
-## Project
+## Overview
+Designed three custom cookie cutters using Onshape. One design was submitted for the workshop, while the other two were additional designs I created during the process.
 
-A custom cookie cutter designed and modelled using CAD tools as part of the Bake Build workshop.
-
-## Workshop
-- **Organization:** Hack Club
-- **Workshop:** Bake Build
-- **Project:** Cookie Cutter
-- **Status:** Accepted
+## Designs
+- Cookie Cutter 01 — Submitted design
+- Cookie Cutter 02 — Additional design
+- Cookie Cutter 03 — Additional design
 
 ## Tools
 - Onshape
 - CAD / 3D modelling
 
-## Skills
+## Files
+The repository contains STEP files for all three cookie cutter designs.
+
+## Skills Practised
 - 2D sketching
-- 3D modelling
+- CAD modelling
 - Geometric design
-- CAD workflow
-- 3D model export
+- 3D modelling
+- Exporting STEP files
+
 
